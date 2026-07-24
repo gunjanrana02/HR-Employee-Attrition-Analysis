@@ -134,30 +134,31 @@ Dashboard Features
 
 ## Executive Summary
 
-![Executive Summary](Executive_Summary.png)
+![Executive Summary](Images/Executive_Summary.png)
 ---
 
 ## Attrition Analysis
 
-![Attrition Analysis](Attrition_Analysis.png)
+![Attrition Analysis](Images/Attrition_Analysis.png)
 
 ---
 
 ## Workforce Overview
 
-![Workforce Overview](Workforce_Overview.png)
+![Workforce Overview](Images/Workforce_Overview.png)
 
 ---
 
 ## Compensation & Career Growth
 
-![Compensation & Career Growth](Compensation_Career_Growth.png)
+![Compensation & Career Growth](Images/Compensation_Career_Growth.png)
 
 ---
 
 ## Satisfaction & Engagement
 
-![Satisfaction & Engagement](Satisfaction_Engagement.png)
+![Satisfaction & Engagement](Images/Satisfaction_Engagement.png)
+
 ---
 
 # 📂 Repository Structure
