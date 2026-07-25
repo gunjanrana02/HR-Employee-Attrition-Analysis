@@ -166,15 +166,17 @@ Dashboard Features
 ```
 HR-Employee-Attrition-Analysis
 │
+├── Images/
+│   ├── Executive_Summary.png
+│   ├── Attrition_Analysis.png
+│   ├── Workforce_Overview.png
+│   ├── Compensation_Career_Growth.png
+│   └── Satisfaction_Engagement.png
+│
 ├── Employees.csv
-├── HR_Analytics_SQL_Project.sql
-├── HR_Analytics_EDA_Python.ipynb
-├── HR_Analytics_Dashboard.pbix
-├── Attrition_Analysis.png
-├── Workforce_Overview.png
-├── Compensation_Career_Growth.png
-├── Satisfaction_Engagement.png
-├── Executive_Summary.png
+├── HR_Attrition_Analysis.ipynb
+├── HR_Attrition_Analysis.pbix
+├── HR_Attrition_Analysis.sql
 └── README.md
 ```
 
